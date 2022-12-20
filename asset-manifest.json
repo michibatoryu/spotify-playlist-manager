@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/spotify-playlist-manager/static/css/main.073c9b0a.css",
-    "main.js": "/spotify-playlist-manager/static/js/main.e93ece72.js",
+    "main.js": "/spotify-playlist-manager/static/js/main.cec486e3.js",
     "static/js/787.2ce4adcb.chunk.js": "/spotify-playlist-manager/static/js/787.2ce4adcb.chunk.js",
     "static/media/logo.svg": "/spotify-playlist-manager/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/spotify-playlist-manager/index.html",
     "main.073c9b0a.css.map": "/spotify-playlist-manager/static/css/main.073c9b0a.css.map",
-    "main.e93ece72.js.map": "/spotify-playlist-manager/static/js/main.e93ece72.js.map",
+    "main.cec486e3.js.map": "/spotify-playlist-manager/static/js/main.cec486e3.js.map",
     "787.2ce4adcb.chunk.js.map": "/spotify-playlist-manager/static/js/787.2ce4adcb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.e93ece72.js"
+    "static/js/main.cec486e3.js"
   ]
 }
